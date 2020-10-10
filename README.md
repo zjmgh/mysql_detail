@@ -43,8 +43,18 @@ The download address is : https://dev.mysql.com/downloads/windows/installer/
 
 Installation steps: https://www.runoob.com/w3cnote/windows10-mysql-installer.html
 
-# Login to msyql
+# Login to mysql
 
 ```
 mysql -h localhost root -P 3306 -u root -p
+```
+
+# Directory
+
+sql operate
+```
+database operate          --- database.sql
+data type descript        --- dateType.txt
+table operate             --- table.sql
+insert, update and delete --- insert_update_delete.sql
 ```
