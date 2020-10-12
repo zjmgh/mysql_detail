@@ -57,4 +57,5 @@ database operate          --- database.sql
 data type descript        --- dateType.txt
 table operate             --- table.sql
 insert, update and delete --- insert_update_delete.sql
+select                    --- select.sql
 ```
