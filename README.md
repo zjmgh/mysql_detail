@@ -59,3 +59,8 @@ table operate             --- table.sql
 insert, update and delete --- insert_update_delete.sql
 select                    --- select.sql
 ```
+
+data operate
+```
+operate                   --- operate.txt
+```
